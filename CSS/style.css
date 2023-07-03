@@ -1,0 +1,123 @@
+.bigimage img {
+    width: 100%;
+}
+
+.bigimage {
+    position: relative;
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 35px;
+}
+
+.menu {
+    background-color: #19363b;
+
+}
+
+.menu ul li {
+    display: inline;
+    margin: 15px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #dbf8da;
+}
+
+.text {
+    position: absolute;
+    top: 230px;
+    left: 50px;
+}
+
+.text h1 {
+    color: white;
+    font-size: 40px;
+}
+
+.text p {
+    font-size: 23px;
+    color: white;
+}
+
+.text button {
+    background-color: #4bc16b;
+    border: 0;
+    border-radius: 25px;
+    width: 180px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.text button a {
+    text-decoration: none;
+    color: #dbf8da;
+}
+
+.goal,
+.aboutclub {
+    width: 50%;
+}
+
+.aboutclub {
+    margin-top: 70px;
+}
+
+.goal img {
+    width: 60%;
+}
+
+.imgaboutclub {
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+
+.twobuttons button {
+    background-color: #4bc16b;
+    border: 0;
+    border-radius: 25px;
+    width: 180px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+.twobuttons button a {
+    text-decoration: none;
+    color: #dbf8da;
+}
+
+.greenbck {
+    font-size: 25px;
+    color: #dbf8da;
+    line-height: 0.2;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #4bc16b;
+    width: 100%;
+    height: 300px;
+}
+
+.imgtennis {
+    display: flex;
+    margin-top: 90px;
+}
+
+.playingtennis {
+    width: 50%;
+    margin-left: 190px;
+}
+
+.tennisimg {
+    width: 50%;
+}
+
+.tennisimg img {
+    width: 100%;
+}
